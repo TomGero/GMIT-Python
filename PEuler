@@ -12,4 +12,4 @@ while i < 1000:
         sum = sum + i
     i = i + 1
 
-    print("Sum of multiples of 3 and 5, less than 1000:", sum)
+    print("Sum of multiples of 3 and 5, that are less than 1000:", sum)
