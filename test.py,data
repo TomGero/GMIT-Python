@@ -1,0 +1,23 @@
+i = 11
+print(i)
+
+j = 12
+print(j)
+
+k = i * j
+print(k)
+
+f = 12.87
+print(f)
+
+g = 0.98
+print(g)
+
+s = 'Hello, World!'
+print(s)
+print(s[0])
+print(s[:5])
+print(s[7:12])
+
+l = [2,3,4,5,78]
+print(l)
